@@ -24,6 +24,7 @@ This project analyzes GDP of countries between the year 2020 and 2025 using Pyth
 - Top 10 Countries by GDP 2025
 - Countries with Negative or stagnant GDP growth between 2020-2025
 - Top 10 Countries with the fastest GDP growth between 2020-2025
+- Countries with the most volatile and most stable economy between 2020-2025
   
 ## Author
 - Name: Nestor
